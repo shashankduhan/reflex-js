@@ -1,4 +1,4 @@
-const reflex = ()=>{
+const reflex = (()=>{
     return {
       dispatcher: e =>
       {
@@ -154,7 +154,7 @@ const reflex = ()=>{
       stickerList: []
     }
 
-}
+})();
 
 
 export default reflex;

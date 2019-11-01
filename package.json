@@ -2,7 +2,7 @@
   "name": "reflex-flow",
   "version": "1.0.1",
   "description": "A javascript data flow management library",
-  "main": "reflex",
+  "main": "src/reflex.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
